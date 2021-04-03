@@ -1,5 +1,0 @@
-+++
-description = "Home"
-draft = true
-
-+++
