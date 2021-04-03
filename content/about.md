@@ -12,4 +12,10 @@ I'm Madi. I'm a [first-principles](https://fs.blog/2018/04/first-principles/ "Fi
 
 ![](/uploads/ckt-2.jpg)
 
-I like working on technical problems where I'm able to own the product development, end-to-end. Give me a tough problem the team had been stuck solving for years, I'll hack my way to get over the learning curve and deliver an [MVP within a month](https://www.productplan.com/glossary/minimum-viable-product/ "Minimum Viable Product").
+I like working on technical problems where I'm able to own the product development, end-to-end. Give me a tough problem the team had been stuck on solving for years, I'll hack my way to get over the learning curve (no matter how steep) and deliver a straw-man solution, a.k.a. [a working MVP within a month.](https://www.productplan.com/glossary/minimum-viable-product/ "Minimum Viable Product")
+
+Recently, I've been working on projects in automotive, wireless communications and technopreneurship. 
+
+Looking to add a cool AF product engineer on your team? You can reach me at masdimaisip@gmail.com
+
+Just keep hacking!
