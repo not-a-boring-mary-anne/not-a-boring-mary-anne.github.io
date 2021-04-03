@@ -3,7 +3,7 @@ author = "Madi"
 date = 2019-03-09T00:00:00Z
 description = "REBOOT: Renewable Energy Boot Camp for Young Engineers"
 tags = ["markdown", "text"]
-title = "Friedrich Ebert Stiftung (FES)"
+title = "Friedrich Ebert Stiftung (FES) - Logistics"
 
 +++
 Lorem est tota propiore conpellat pectoribus de
