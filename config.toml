@@ -5,6 +5,11 @@ languageCode = "en"
 theme = "hugo.386"
 title = "Not a Boring Mary Anne"
 [[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/post/"
+weight = 2
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
