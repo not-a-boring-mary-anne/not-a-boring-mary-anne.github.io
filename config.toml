@@ -1,69 +1,29 @@
+DefaultContentLanguage = "en"
 baseURL = "https://not-a-boring-mary-anne.netlify.app/"
-title = "Not a Boring Mary Anne"
-languageCode = "en"
-DefaultContentLanguage = "en" # Change this to change the site's language
-theme = "hugo.386"
-# preserveTaxonomyNames = true
 ignoreErrors = ["error-remote-getjson"]
-
+languageCode = "en"
+theme = "hugo.386"
+title = "Not a Boring Mary Anne"
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
 [params]
-    # The name to display as main title in the home page
-    mainpagetitle = "Not a Boring Mary Anne"
-
-    # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to my 90s throwback portfolio!" 
-
-    # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This includes what I do and some of the coolest projects I'm working on."
-
-    # The name to display in the copyright section in the footer
-    copyrightname = "madi"
-
-    # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://not-a-boring-mary-anne.netlify.app"
-
-    # Show the "built on Hugo" disclaimer
-    showhugo = false
-
-    # Urls for social networks
-    linkedin = "https://www.linkedin.com/in/not-a-boring-mary-anne/"
-    github = "https://github.com/not-a-boring-mary-anne"
-    email = "mailto:masdimaisip@gmail.com"
-
-    # Enables or disables the loading animations. false activates them. Default is false.
-    loadfastload = false
-
-    # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 1.0
-
-    # Enables or disables the second flyby cursor. Default is false.
-    loadonepass = false
-
+copyrightname = "madi"
+copyrighturl = "http://not-a-boring-mary-anne.netlify.app"
+email = "mailto:masdimaisip@gmail.com"
+github = "https://github.com/not-a-boring-mary-anne"
+linkedin = "https://www.linkedin.com/in/not-a-boring-mary-anne/"
+loadfastload = false
+loadonepass = false
+loadspeedfactor = 1.0
+mainpagedesc = "This includes what I do and some of the coolest projects I'm working on."
+mainpagesubtitle = "Welcome to my 90s throwback portfolio!"
+mainpagetitle = "Not a Boring Mary Anne"
+showhugo = false
 [params.copyright]
-    name = "Mary Anne Dimaisip"
-
-    # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "http://not-a-boring-mary-anne.netlify.app"
-
-    # Text to go before copyright information
-    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
-
-    # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Example site"
-
-[menu]
-  # This displays buttons in the navbar to access your contents
-  [[menu.main]]
-    identifier = "about" # An unique identifier for the button
-    name = "About"       # A display name for the button
-    url = "/about/"      # The path to the content. It can lead to a single page (like here)
-    weight = 10          # A number to order the buttons in the navbar
-
-  [[menu.main]]
-    identifier = "projects"
-    name = "All projects"
-    url = "/post/"       # The path can lead to a content folder too.
-    weight = 20
-
-
-
+name = "Mary Anne Dimaisip"
+prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+suffix = "Example site"
+url = "http://not-a-boring-mary-anne.netlify.app"
