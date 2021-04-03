@@ -2,7 +2,7 @@
 aliases = ["migrate-from-jekyl"]
 author = "Madi"
 categories = ["themes", "syntax"]
-date = 2019-03-11T00:00:00Z
+date = 2019-04-06T00:00:00Z
 description = "Technopreneurship: product engineering to business development"
 series = ["Themes Guide"]
 tags = ["markdown", "css", "html", "themes"]
