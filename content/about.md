@@ -8,7 +8,7 @@ title = "About"
 +++
 Hello World!
 
-I'm Madi. I'm a [first-principles](https://fs.blog/2018/04/first-principles/ "First-Principles Thinking") type of thinker and I'm what Filipinos call a [siraniko](https://www.urbandictionary.com/define.php?term=siraniko "Siraniko, the tinkerer")_._ I take things apart, re-engineer them and ultimately, make them 200x better.
+I'm Madi. I'm a [first-principles](https://fs.blog/2018/04/first-principles/ "First-Principles Thinking") type of thinker and I'm what Filipinos call a [siraniko](https://www.urbandictionary.com/define.php?term=siraniko "Siraniko, the tinkerer"). I take things apart, re-engineer them and ultimately, make them 200x better.
 
 ![](/uploads/ckt-2.jpg)
 
