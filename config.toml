@@ -29,6 +29,4 @@ mainpagetitle = "Not a Boring Mary Anne"
 showhugo = false
 [params.copyright]
 name = "Mary Anne Dimaisip"
-prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
-suffix = "Example site"
 url = "http://not-a-boring-mary-anne.netlify.app"
