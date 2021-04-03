@@ -1,6 +1,6 @@
 +++
 author = "Madi"
-date = 2019-03-10T00:00:00Z
+date = 2019-04-09T16:00:00Z
 description = "How we self-built a race car that can go the farthest using the least amount of energy"
 tags = ["automotive", "circuit", "electrical", "electronics", "design", "development", "international"]
 title = "Shell Eco-marathon Asia - Malaysia"
