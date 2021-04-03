@@ -3,7 +3,7 @@ title = "Not a Boring Mary Anne"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
-preserveTaxonomyNames = true
+# preserveTaxonomyNames = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
@@ -64,11 +64,6 @@ ignoreErrors = ["error-remote-getjson"]
     name = "All projects"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-
 
 
 
