@@ -8,7 +8,7 @@ title = "Hydroponics & Container Gardening"
 +++
 # Hydroponics & Container Gardening
 
-Outside of work, I like to experiment with growing herbs, leafy greens, and fruits on soil, through kratky method or NFT. I especially enjoy data logging to keep track of our nutrient dose-adjustments to the overall yield. 
+Outside of work, I like to experiment with growing herbs, leafy greens, and fruits on soil, through kratky method or NFT. I especially enjoy data logging to keep track of our nutrient dose-adjustments' effect to the overall yield.
 
 ![](/uploads/166843965_268611038153989_7208604144687216016_n.jpg)
 
@@ -36,5 +36,3 @@ For every failed experiment we had, we were able to enjoy countless plates of le
 If you're interested in growing edible plants in your home (and becoming a Plantito / Plantita), you can reach me at masdimaisip@gmail.com
 
 We're selling potted herbs with free one month-worth of fertilizer!
-
- 
