@@ -2,7 +2,6 @@
 author = "Madi"
 date = 2019-03-07T00:00:00Z
 description = "How we built (and iterated) our own hydroponic NFT system at home"
-draft = true
 tags = ["hydroponics", "NFT", "agile"]
 title = "Hydroponics & Container Gardening"
 
