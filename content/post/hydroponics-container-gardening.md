@@ -12,6 +12,12 @@ Outside of work, I like to experiment with growing herbs, leafy greens, and frui
 
 ![](/uploads/166843965_268611038153989_7208604144687216016_n.jpg)
 
+We also built our own full-spectrum lighting system and IoT lighting & water pump control using Arduino and relays. 
+
+![](/uploads/169866299_213727623847122_8039323813476525094_n.jpg)
+
+![](/uploads/169665336_285067463107130_5557255259873482756_n.jpg)  
+
 Some of our successful harvests include:
 
 * Lettuce (parris island, romaine, red rapids, iceberg)
