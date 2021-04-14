@@ -33,6 +33,9 @@ with minimal supervision will be developed.
 ###### For this biomed venture, my role was **tech maven** and **scrum master**. As an agile product developer, I adopted a hands-on approach while working on improvements to the equipment such as:
 
 * Designed, simulated, developed and lab-tested the consolidated motherboard that enables all the modules to be powered by a single AC source, i.e. an equipment that requires the user to plug only one adapter (PCB design, EAGLE, Simetrix, C++)
+
+![](/uploads/169926217_156284989634039_2074553462731761739_n.jpg)
+
 * Built and integrated an automated PDF generator of post-exercise reports which includes the csv file of the ECG Data (SQL, Python)
 * Integrated Arduino watchdog timer (WDT) to prevent system hangs
 
