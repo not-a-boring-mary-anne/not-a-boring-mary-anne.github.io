@@ -1,6 +1,6 @@
 +++
 author = "Madi"
-date = 2021-06-08T16:00:00Z
+date = 2021-06-08T07:00:00Z
 description = "Plastic 3R Hacks PH is a nationwide virtual hackathon that aims to harness solutions to the pressing issues of marine plastic pollution in the Philippines. "
 tags = ["circuit", "electronics", "design", "development", "national", "IoT", "data", "engineering", "agri tech"]
 title = "Plastic 3R Hacks PH Grand Winner"
