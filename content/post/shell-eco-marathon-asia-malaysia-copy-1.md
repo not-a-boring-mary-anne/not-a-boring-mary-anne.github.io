@@ -8,7 +8,7 @@ title = "Plastic 3R Hacks PH Grand Winner"
 +++
 # **Plastic 3R Hacks PH Grand Winner**
 
-![](/uploads/img_3840.jpg)
+![Team photo after the Live Demo day](/uploads/img_3840.jpg "Team STP photo op")
 
 As we celebrate World Oceans Day today, our team emerged as the Grand Winner of the first ever Plastic 3R Hacks PH hackathon.
 
