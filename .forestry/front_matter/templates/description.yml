@@ -11,5 +11,3 @@ fields:
     schema:
       format: markdown
   label: Description
-pages:
-- content/post/plastic-3r-hacks.md
